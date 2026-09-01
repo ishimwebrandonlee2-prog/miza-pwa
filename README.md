@@ -72,3 +72,4 @@ When you're ready for the data to sync across devices or connect to the
 backend we built earlier (`miza-app/`), the natural next step is having
 `app.js` call that backend's REST API when online and fall back to
 IndexedDB when offline — the account/transaction shapes already match.
+test change
